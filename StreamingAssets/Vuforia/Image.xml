@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="card-back" size="0.008000 0.005003" />
+    <ImageTarget name="card-front" size="0.008000 0.005003" />
+  </Tracking>
+</QCARConfig>
